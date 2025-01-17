@@ -1,2 +1,2 @@
-# PentaCode-Py
+# PentaCode-P
 Python Pentacam Data Analyser
